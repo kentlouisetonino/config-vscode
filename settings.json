@@ -1,0 +1,87 @@
+{
+  "workbench.colorTheme": "Pitch Black",
+  "workbench.editor.wrapTabs": true,
+  "workbench.tree.indent": 20,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.accessibilitySupport": "off",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "workbench.editor.enablePreview": true,
+  "workbench.list.openMode": "singleClick",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+  "[dart]": {
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[go]": {
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true
+  },
+  "[md]": {
+    "editor.formatOnSave": false
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dockerignore]": {
+    "editor.formatOnSave": false
+  },
+  "errorLens.enabledDiagnosticLevels": ["info"],
+  "prettier.enableDebugLogs": true,
+  "terminal.integrated.scrollback": 100000,
+  "git.autoStash": true,
+  "git.enableSmartCommit": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.inlineSuggest.enabled": true,
+  "git.mergeEditor": false,
+  "terminal.integrated.fontFamily": "SauceCodePro Nerd Font",
+  "editor.linkedEditing": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "typescript.preferences.importModuleSpecifier": "project-relative",
+  "files.associations": {
+    "*.env.local": "env",
+    "*.env.production*": "env",
+    "*.env.development*": "env",
+    ".dockerignore": "dockerignore"
+  },
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor",
+  },
+  "window.commandCenter": true,
+  "markdown.preview.fontSize": 12,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.enablePreviewFromCodeNavigation": true,
+  "extensions.ignoreRecommendations": true,
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": false
+}
+

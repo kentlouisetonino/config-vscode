@@ -1,0 +1,10 @@
+{
+  "name": "config-vscode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kent Louise Tonino <tonino.kentlouise@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^3.2.4"
+  }
+}
